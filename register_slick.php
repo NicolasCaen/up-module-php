@@ -7,7 +7,7 @@
  * Version: 1.0.0
  * Catégories: Frontend, Carousel
  * Type: php
- * Install: php=functions/php
+ * Install: php=functions
  */
 
 add_action( 'wp_enqueue_scripts', 'up_register_slickjs' );

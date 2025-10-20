@@ -13,7 +13,7 @@
         "php": "register_slick.php"
       },
       "install": {
-        "php": "functions/php"
+        "php": "functions"
       }
     }
   ]

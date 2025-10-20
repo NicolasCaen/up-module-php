@@ -1,0 +1,20 @@
+{
+  "patterns": [
+    {
+      "slug": "register-slick",
+      "name": "Register Slick Carousel",
+      "description": "Enregistre les assets Slick (CSS/JS) via wp_register_style/wp_register_script.",
+      "version": "1.0.0",
+      "categories": [
+        "Frontend",
+        "Carousel"
+      ],
+      "files": {
+        "php": "register_slick.php"
+      },
+      "install": {
+        "php": "functions/php"
+      }
+    }
+  ]
+}

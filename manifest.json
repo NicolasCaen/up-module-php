@@ -1,6 +1,22 @@
 {
   "patterns": [
     {
+      "slug": "hook-cf7-select-email",
+      "name": "Hook CF7 Select Email",
+      "description": "Hook pour rediriger l'email en fonction du select ['your-demande']",
+      "version": "1.0.0",
+      "categories": [
+        "CF7",
+        "Hook"
+      ],
+      "files": {
+        "php": "hook-cf7-select-email.php"
+      },
+      "install": {
+        "php": "functions/cf7"
+      }
+    },
+    {
       "slug": "register-slick",
       "name": "Register Slick Carousel",
       "description": "Enregistre les assets Slick (CSS/JS) via wp_register_style/wp_register_script.",

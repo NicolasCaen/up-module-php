@@ -5,7 +5,7 @@
  * Nom: Hook CF7 Select Email
  * Description: Hook pour rediriger l'email en fonction du select ['your-demande']
  * Version: 1.0.0
- * Catégories: CF7, Hook
+ * Catégories: CF7, Hook, Email
  * Type: php
  * Install: php=functions/cf7
  */
